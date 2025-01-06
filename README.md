@@ -4,7 +4,7 @@ A customized chat bot and document parser builder app using Multimodal RAG mecha
 - Built a generic prototype RAG builder application for particular use-case.
 ### Knowledgebase-Customizer
 - We can set the context by providing the context data in this customizer page.
-![image](tmp/customizer.PNG)
+![image](tmp/3.png)
 ### Customized chatbot for interaction.
 - We can interact the customized RAG bot through this page.
 ![image](tmp/4.png)
