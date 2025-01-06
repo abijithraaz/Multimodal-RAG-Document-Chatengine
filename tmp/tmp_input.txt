@@ -1,0 +1,8 @@
+# Classification
+
+classify the document into these category.
+
+- Invoice
+- Contract
+- News
+- Other
