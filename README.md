@@ -7,7 +7,7 @@ A customized chat bot and document parser builder app using Multimodal RAG mecha
 ![image](tmp/customizer.PNG)
 ### Customized chatbot for interaction.
 - We can interact the customized RAG bot through this page.
-![image](tmp/4.PNG)
+![image](tmp/4.png)
 
 ## Environmental variables
 Please set these environmental variable before running the solution.
