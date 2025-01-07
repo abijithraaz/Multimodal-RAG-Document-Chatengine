@@ -12,6 +12,6 @@ class OpenAiLLM(BaseLLM):
             {"role": "system", "content": "You are a helpful assistant."},
             {"role": "user", "content": prompt}
         ],
-        model="gpt-3.5-turbo",
+        model="gpt-3.5-turbo", # replace your model name here
     )
         return chat_completion.choices[0].message.content
